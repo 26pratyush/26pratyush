@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=26pratyush&label=Profile%20views&color=0e75b6&style=flat" alt="26pratyush" /> </p>
 
-- 🔭 I’m currently working on **a Brute-Force Cipher Cracker**
+- 🔭 I’m currently working on **a Self-Made Cipher Encryption/Decryption**
 
 - 🌱 I’m currently learning **AIML and java**
 
