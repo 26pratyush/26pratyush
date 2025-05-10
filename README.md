@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML/CSS & BlockChain**
 
-- 👯 I’m looking to collaborate on **a Food Allergen Detection System**
+- 👯 I’m looking to collaborate on **a College Ride-Sharing Web Application**
 
 - 📫 How to reach me **paipratyush1@gmail.com**
 
