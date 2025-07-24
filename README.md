@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=26pratyush&label=Profile%20views&color=0e75b6&style=flat" alt="26pratyush" /> </p>
 
-- 🔭 I’m currently working on a **Cardiovascular Distress Prediction System Using Multimodal Signal Integration**
+- 🫀 I’m currently working on an **ECG-Based Risk Classification System + Multimodal Health Insight Integration**
 
-- 🌱 I’m currently learning **HTML/CSS & BlockChain**
+- 🧑‍💻 I’m currently preparing for **AWS Certified Cloud Practitioner**
 
 - 👯 I’m looking to collaborate on **a College Ride-Sharing Web Application**
 
