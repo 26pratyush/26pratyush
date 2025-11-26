@@ -15,7 +15,7 @@
 </p>
 
 
-- 🫀 Engineering an **ECG-Powered Risk Scanner + Multimodal Health Insight Fusion**  
+- 🎟️ Engineering a **Microservice-based Event Management & Ticket Booking System**  
 - 🧑‍💻 Prepping for **AWS Certified Cloud Practitioner** 
 - 💻 Building a **Generative AI Application Using LangChain**  
 - 📫 Reach out at → **paipratyush1@gmail.com**  
