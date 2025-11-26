@@ -17,7 +17,7 @@
 
 - 🫀 Engineering an **ECG-Powered Risk Scanner + Multimodal Health Insight Fusion**  
 - 🧑‍💻 Prepping for **AWS Certified Cloud Practitioner** 
-- 👯 Building a **College Ride-Sharing Nexus**  
+- 💻 Building a **Generative AI Application Using LangChain**  
 - 📫 Reach out at → **paipratyush1@gmail.com**  
 
 <br>
