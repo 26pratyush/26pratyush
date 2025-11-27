@@ -50,7 +50,7 @@
 
 <h3 align="left">The Mix:</h3>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=26pratyush&langs_count=9&layout=compact&theme=radical)](https://github.com/26pratyush/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=26pratyush&langs_count=8&layout=compact&theme=radical)](https://github.com/26pratyush/github-readme-stats)
 
 
 ---
