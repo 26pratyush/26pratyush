@@ -17,7 +17,7 @@
 
 - 🎟️ Engineering a **Microservice-based Event Management & Ticket Booking System**  
 - 🧑‍💻 Prepping for **AWS Certified Cloud Practitioner** 
-- 💻 Building a **Generative AI Application Using LangChain**  
+- 💻 Building a **GenAI Travel Companion Using LangChain & RAG**  
 - 📫 Reach out at → **paipratyush1@gmail.com**  
 
 <br>
